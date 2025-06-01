@@ -9,7 +9,7 @@ Cette application Angular permet d'afficher une liste de produits avec les fonct
 
 ## 📸 Aperçu de l'interface
 
-![Product Component](./assets/screenshot.png) <!-- Remplacer le chemin par le bon chemin vers l’image -->
+![Product Component](./screenshots/pro.png) <!-- Remplacer le chemin par le bon chemin vers l’image -->
 
 ## 🛠️ Fonctionnalités
 
